@@ -41,7 +41,6 @@ O relatório técnico detalhado (`relatorio_final.pdf`) apresenta as conclusões
 *   `acesso_renda.png`: Gráfico da taxa de acesso à internet por decil de rendimento.
 *   `model_summary.txt`: Sumário completo do modelo de regressão logística.
 *   `odds_ratios.csv`: Tabela com os Odds Ratios do modelo.
-*   `relatorio_final.md`: Relatório técnico em formato Markdown.
 *   `relatorio_final.pdf`: Relatório técnico final em formato PDF.
 
 ## Como Reproduzir a Análise
